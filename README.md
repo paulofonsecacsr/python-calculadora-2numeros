@@ -3,7 +3,7 @@ Calculadora programada em Python capaz de realizar seis operações matemáticas
 
 No desenvolvimento desse programa, busquei aplicar os conhecimento recém obtidos sobre Funcões com Return. Trabalhei com afinco também no Tratamento de Erros, tanto no caso de respostas inválidas quanto quando se digita caracteres onde se pede um input do tipo Inteiro ou Float (nesse caso, utilizando Try Except)
 
-Além disso, a fim de criar uma aparência de Website real no meu programa, criei Funções responsáveis por simular um carregamento no Terminal. Ao final do projeto, decidi melhorar ainda mais a sua estética aplicando cores estratégicas em algumas textos. Para isso, aprendi a usar as ferramentes da biblioteca "colorama"*.
+Além disso, a fim de criar uma aparência de Website real no meu programa, fiz uso da função Sleep da biblioteca Time para criar Funções responsáveis por simular um carregamento no Terminal. Ao final do projeto, decidi melhorar ainda mais a sua estética aplicando cores estratégicas em algumas textos. Para isso, aprendi a usar as ferramentes da biblioteca "colorama"*.
 
 O desenvolvimento desse programa melhorou minhas habilidades principalmente no manejo de Funções, mas também na organização do código seguindo as recomendações do PEP8.
 
