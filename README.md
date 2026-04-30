@@ -1,5 +1,5 @@
 # python-calculadora-2numeros
-Calculadora programada em Python capaz de realizar seis operações diferentes entre dois números. Esse programa foi feito para ser executado no próprio Terminal.
+Calculadora programada em Python capaz de realizar seis operações matemáticas (Adição, Subtração, Multiplicação, Divisão, Potenciação, Radiciação) entre dois números. Esse programa foi feito para ser executado no próprio Terminal.
 
 No desenvolvimento desse programa, busquei aplicar os conhecimento recém obtidos sobre Funcões com Return. Trabalhei com afinco também no Tratamento de Erros, tanto no caso de respostas inválidas quanto quando se digita caracteres onde se pede um input do tipo Inteiro ou Float (nesse caso, utilizando Try Except)
 
