@@ -5,7 +5,7 @@ No desenvolvimento desse programa, busquei aplicar os conhecimento recém obtido
 
 Além disso, a fim de criar uma aparência de Website real no meu programa, criei Funções responsáveis por simular um carregamento no Terminal. Ao final do projeto, decidi melhorar ainda mais a sua estética aplicando cores estratégicas em algumas textos. Para isso, aprendi a usar as ferramentes da biblioteca "colorama"*.
 
-O desenvolvimento desse programa melhorou minhas habilidades principalmente no manejo de Funções, mas também na organização do código seguindo as recomendações do PEP8. Estou bastante feliz em publicar meu primeiro repositório e pretendo adicionar novos ao longo da minha jornada no universo da programação.
+O desenvolvimento desse programa melhorou minhas habilidades principalmente no manejo de Funções, mas também na organização do código seguindo as recomendações do PEP8.
 
 *Para a execução plena desse programa, é importante que se tenha instalada a biblioteca "colorama". Para fazer o seu download, copie e cole no seu Terminal:
 - Mac: pip3 install colorama
