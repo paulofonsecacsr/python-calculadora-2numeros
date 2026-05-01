@@ -12,6 +12,6 @@ Além disso, para dar a sensação de um Website real ao meu programa, fiz uso d
 
 O desenvolvimento desse programa melhorou minhas habilidades principalmente no manejo de Funções, mas também na organização do código seguindo as recomendações do PEP8.
 
-*Para a execução plena desse programa, é importante que se tenha instalada a biblioteca _colorama_. Para fazer o seu download, copie e cole no seu Terminal:
+*Para a experiência visual plena desse programa, é necessário que se tenha instalada a biblioteca _colorama_. Para fazer o seu download, copie e cole no seu Terminal:
 - Mac: pip3 install colorama
 - Windows: pip install colorama
