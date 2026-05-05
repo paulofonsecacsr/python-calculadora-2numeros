@@ -11,7 +11,7 @@ Para evitar a exibição de valores inteiros (recebidos como float) com um 0 dec
 
 Além disso, para dar a sensação de um Website real ao meu programa, fiz uso da função _sleep()_ da biblioteca nativa _time_ para criar funções responsáveis por simular um carregamento no Terminal. Ao final do projeto, decidi melhorar ainda mais a sua estética aplicando cores estratégicas em alguns textos. Para isso, aprendi a usar as ferramentas da biblioteca importada _colorama_*.
 
-O desenvolvimento desse programa melhorou minhas habilidades principalmente no manejo de Funções.
+O desenvolvimento desse programa melhorou minhas habilidades principalmente no manejo de Funções e foi de grande importância para o meu desenvolvimento como programador.
 
 *Para a experiência visual plena desse programa, é necessário que se tenha instalada a biblioteca _colorama_. Para fazer o seu download, copie e cole no seu Terminal:
 - Mac: pip3 install colorama
