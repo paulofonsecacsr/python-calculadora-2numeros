@@ -1,6 +1,7 @@
-# python-calculadora-2numeros
-Calculadora programada em Python capaz de realizar seis operações matemáticas (Adição, Subtração, Multiplicação, Divisão, Potenciação, Radiciação) entre dois números. Esse programa foi feito para ser executado no próprio Terminal.
+# Calculadora de 2 números (em Python)
+Calculadora programada em Python capaz de realizar seis operações matemáticas (Adição, Subtração, Multiplicação, Divisão, Potenciação, Radiciação) entre dois números. Esse programa foi feito para ser executado no próprio Terminal da IDE de preferência do usuário.
 
+## Processo de desenvolvimento e detalhes do código
 No desenvolvimento desse programa, busquei aplicar os aprendizados recentes sobre Funcões com parâmetros e _return_. 
 
 Para o programa receber a operação matemática que deve ser executada, a fim de poder aplicar a função built-in _replace()_ com o intuito de corrigir respostas mal-escritas, optei por pedir que o usuário escreva o nome da operação. Assim, a ausência de primeira letra maiúscula e/ou de acento til e/ou de cedilha e/ou a presença de espaços antes e depois das palavras foram todas tratadas para resultarem numa resposta válida.
@@ -9,8 +10,9 @@ Trabalhei com afinco também no Tratamento de Erros, tanto no caso de respostas 
 
 Para evitar a exibição de valores inteiros (recebidos como float) com um 0 decimal no final, criei também uma função responsável por formatar valores, removendo, quando desnecessária, essa casa decimal de um número.
 
-Além disso, para dar a sensação de um Website real ao meu programa, fiz uso da função _sleep()_ da biblioteca nativa _time_ para criar funções responsáveis por simular um carregamento no Terminal. Ao final do projeto, decidi melhorar ainda mais a sua estética aplicando cores estratégicas em alguns textos. Para isso, aprendi a usar as ferramentas da biblioteca importada _colorama_*.
+Além disso, para dar a sensação de um Website real ao meu programa, fiz uso da função _sleep()_ da biblioteca nativa _time_ para criar funções responsáveis por simular um carregamento no Terminal. Ao final do projeto, decidi melhorar ainda mais a sua estética aplicando cores estratégicas em alguns textos. Para isso, aprendi a usar as ferramentas da biblioteca importada _colorama_<sup>*<sup>.
 
-*Para a experiência visual plena desse programa, é necessário que se tenha instalada a biblioteca _colorama_. Para fazer o seu download, copie e cole no seu Terminal:
+## Instruções de instalação
+<small><sup>*<sup>Para a experiência visual plena desse programa, é necessário que se tenha instalada a biblioteca _colorama_. Para fazer o seu download, copie e cole no seu Terminal:
 - Mac: pip3 install colorama
-- Windows: pip install colorama
+- Windows: pip install colorama<small>
