@@ -10,9 +10,9 @@ Trabalhei com afinco também no Tratamento de Erros, tanto no caso de respostas 
 
 Para evitar a exibição de valores inteiros (recebidos como float) com um 0 decimal no final, criei também uma função responsável por formatar valores, removendo, quando desnecessária, essa casa decimal de um número.
 
-Além disso, para dar a sensação de um Website real ao meu programa, fiz uso da função _sleep()_ da biblioteca nativa _time_ para criar funções responsáveis por simular um carregamento no Terminal. Ao final do projeto, decidi melhorar ainda mais a sua estética aplicando cores estratégicas em alguns textos. Para isso, aprendi a usar as ferramentas da biblioteca importada _colorama_<sup>*<sup>.
+Além disso, para dar a sensação de um Website real ao meu programa, fiz uso da função _sleep()_ da biblioteca nativa _time_ para criar funções responsáveis por simular um carregamento no Terminal. Ao final do projeto, decidi melhorar ainda mais a sua estética aplicando cores estratégicas em alguns textos. Para isso, aprendi a usar as ferramentas da biblioteca importada _colorama_.
 
 ## Instruções de instalação
-<sup>*<sup>Para a experiência visual plena desse programa, é necessário que se tenha instalada a biblioteca _colorama_. Para fazer o seu download, copie e cole no seu Terminal:
-- Mac: pip3 install colorama
-- Windows: pip install colorama
+Para a experiência visual plena desse programa, é necessário que se tenha instalada a biblioteca _colorama_. Para fazer o seu download, copie e cole no seu Terminal:<br>
+* Mac: pip3 install colorama
+* Windows: pip install colorama
