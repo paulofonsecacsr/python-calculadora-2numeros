@@ -1,4 +1,4 @@
-# Calculadora de 2 números (em Python)
+# Calculadora Python de 2 números
 Calculadora programada em __Python__ capaz de realizar __seis operações matemáticas__ (Adição, Subtração, Multiplicação, Divisão, Potenciação, Radiciação) entre dois números. Esse programa foi feito para ser executado no próprio Terminal da IDE de preferência do usuário.
 
 ## Instruções de instalação
